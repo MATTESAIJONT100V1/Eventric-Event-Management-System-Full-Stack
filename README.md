@@ -1,0 +1,1 @@
+# Eventric-Event-Management-System-Full-Stack
